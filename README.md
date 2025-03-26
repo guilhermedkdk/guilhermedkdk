@@ -1,16 +1,22 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=194DB4&height=120&section=header"/>
 
-<!--
-**guilhermedkdk/guilhermedkdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Guilherme Peres
 
-Here are some ideas to get you started:
+#### Desenvolvedor Full-Stack e estudante de Ciências da Computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Peres-7A3FAF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeperesdev/)](https://www.linkedin.com/in/guilhermeperesdev/) 
+[![Gmail Badge](https://img.shields.io/badge/-guilhermeperes.dev@gmail.com-7A3FAF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeperes.dev@gmail.com)](mailto:guilhermeperes.dev@gmail.com)
+
+
+- 🌍 Entusiasta das melhores tecnologias de desenvolvimento web
+- 📚 Atualmente estudando pela @Rocketseat
+- ⚙️ Diariamente utilizo: `.tsx`, `.ts`, `.java`, `.php`
+- 💬 Interessado em oportunidades para contribuir com novos projetos.
+
+#
+
+<div align="center">
+  
+#### "Reject common sense to make the impossible possible"
+
+</div>
